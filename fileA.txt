@@ -2,3 +2,4 @@ This is file A.
 change2
 adding the change.
 change 3
+change file A in eatureB branch
