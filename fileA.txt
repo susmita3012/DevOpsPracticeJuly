@@ -1,2 +1,1 @@
-This is file A.
-chsnge 2
+This is file A.git 
